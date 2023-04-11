@@ -1,4 +1,4 @@
-# CplusplusProgram
+# CplusplusInvestment
 
 This program allows users to see how their investments will grow over time based on initial deposit, if they contribute monthly, and interest rate.
 I believe the overall style and naming convention is well done. Easy to read with comments. Created a class and used functions to try to keep main as clean as possible 
